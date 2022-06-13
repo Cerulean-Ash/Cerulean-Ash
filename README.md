@@ -22,9 +22,11 @@ Here are some ideas to get you started:
   I live and work in London, and love writing code.
 </p>
 
+<!--
 <p align='center'>
   <a href="https://github.com/Cerulean-Ash"><img src="https://visitor-badge.glitch.me/badge?page_id=Cerulean-Ash??style=for-the-badge&logo=appveyor"></a>
 </p>
+-->
 
 
 <p align='center'>
