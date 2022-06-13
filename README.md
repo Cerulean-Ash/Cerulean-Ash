@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   <a href="mailto:ashleylampard@live.com?subject=Hello%20Ashley"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 <hr>
-<h4>🚃  I am currently a Web Development Le Wagon student (ends in July/2022) </h4>
-<h5><i>... feel free to reach out!</i></h5>
+<h4>🚃  I am currently a Web Development student at Le Wagon (Finishing July/2022) </h4>
+<h5><i>... feel free to reach out if you'd like to discuss anything code related! 😄</i></h5>
 <h4>💡 I'm currently working with ... </h4>
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
