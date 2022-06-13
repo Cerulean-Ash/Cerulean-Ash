@@ -64,6 +64,8 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  &nbsp;&nbsp;
 </p>
 <br>
 <!--
