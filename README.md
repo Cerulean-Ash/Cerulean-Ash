@@ -29,13 +29,15 @@ Here are some ideas to get you started:
 -->
 
 
+<h4 align='center'>🚃  I am a Web Development student at Le Wagon (Finishing July 2022) </h4>
+<h5 align='center'><i>... feel free to reach out if you'd like to discuss anything code related! 😄</i></h5>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/ashley-lampard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashleylampard@live.com?subject=Hello%20Ashley"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 <hr>
-<h4>🚃  I am a Web Development student at Le Wagon (Finishing July 2022) </h4>
-<h5><i>... feel free to reach out if you'd like to discuss anything code related! 😄</i></h5>
+
 <h4>💡 I'm currently working with ... </h4>
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
