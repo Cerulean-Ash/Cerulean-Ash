@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h4 align='center'>🚃  I am a Web Development student at Le Wagon (Finishing July 2022) </h4>
+<h4 align='center'> I am a Web Development student at Le Wagon (Finishing July 2022) </h4>
 <h5 align='center'><i>... feel free to reach out if you'd like to discuss anything code related! 😄</i></h5>
 
 <p align='center'>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<h4>💡 I'm currently working with ... </h4>
+<h4>🔭 I'm currently working with ... </h4>
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;&nbsp;
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;
 </p>
 <hr>
-<h4>📖 I'm currently learning...</h4>
+<h4>🌱 I'm currently learning...</h4>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   &nbsp;&nbsp;
