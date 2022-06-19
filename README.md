@@ -86,6 +86,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<p align="left">
-// Profile inspired by <a href="https://github.com/StefanyVasc">StefanyVasc</a> and badges from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
-</p>
+
+> Profile inspired by <a href="https://github.com/StefanyVasc">StefanyVasc</a> and badges from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
