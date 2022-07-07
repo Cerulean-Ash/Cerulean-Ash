@@ -69,6 +69,8 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  &nbsp;&nbsp;
 </p>
 <br>
 <!--
