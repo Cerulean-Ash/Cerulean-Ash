@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align='center'> Hi there 👋, I'm Ashley 🧑🏻‍💻</h1>
 
 <p align='center'>
-  I live and work in London, and love writing code.
+  I'm a London based full stack developer.
 </p>
 
 <!--
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h4 align='center'> I am a Web Development student at Le Wagon (Finishing July 2022) </h4>
 <h5 align='center'><i>... feel free to reach out if you'd like to discuss anything code related! 😄</i></h5>
 
 <p align='center'>
