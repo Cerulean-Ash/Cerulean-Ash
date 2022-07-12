@@ -19,26 +19,24 @@ Here are some ideas to get you started:
 <h1 align='center'> Hi there 👋, I'm Ashley 🧑🏻‍💻</h1>
 
 <p align='center'>
-  I'm a London based full stack developer.
+  I'm a London based software developer. When not programming, I enjoy a skating and gaming. Please visit my LinkedIn to follow my programming journey.
 </p>
+<br>
 
-<!--
 <p align='center'>
   <a href="https://github.com/Cerulean-Ash"><img src="https://visitor-badge.glitch.me/badge?page_id=Cerulean-Ash??style=for-the-badge&logo=appveyor"></a>
 </p>
--->
 
 
-<h5 align='center'><i>... feel free to reach out if you'd like to discuss anything code related! 😄</i></h5>
-
+<h4 align='center'>📫 How to reach me:</h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/ashley-lampard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashleylampard@live.com?subject=Hello%20Ashley"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 <hr>
 
-<h4>🔭 I'm currently working with ... </h4>
-<p>
+<h4 align='center'>🔭 I'm currently working with ... </h4>
+<p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -59,15 +57,17 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;
 </p>
 <hr>
-<h4>🌱 I'm currently learning...</h4>
-<p>
+<br>
+<h4 align='center'>🌱 I'm currently learning...</h4>
+
+<p align='center'>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   &nbsp;&nbsp;
@@ -80,12 +80,27 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<br>
+<hr>
+<h4 align='center'>✨ Completed Courses ✨</h4>
+<p align='center'>
+  <a href="https://www.codecademy.com/profiles/Angry.Panda">
+  <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" /></a>
+  &nbsp;&nbsp;
+  
+  <a href="https://www.freecodecamp.org/cerulean-ash">
+  <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+  &nbsp;&nbsp;
+  
+</p>
+
+
 
 
 <br>
-<br>
-<br>
-<br>
 
 
-> Profile inspired by <a href="https://github.com/StefanyVasc">StefanyVasc</a> and badges from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
+
+<p align="left">
+// Badges come from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
+</p>
