@@ -94,7 +94,15 @@ Here are some ideas to get you started:
   
 </p>
 
+<hr>
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Cerulean-Ash&count_private=true&theme=gruvbox_duo"/></a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerulean-Ash&count_private=true"/></a>
+</div>
+
+<hr>
 
 
 <br>
