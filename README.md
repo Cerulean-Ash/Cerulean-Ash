@@ -108,7 +108,6 @@ Here are some ideas to get you started:
 <br>
 
 
-
 <p align="left">
 // Badges come from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
 </p>
