@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align='center'> Hi there 👋, I'm Ashley 🧑🏻‍💻</h1>
 
 <p align='center'>
-  I'm a London based software developer. When not programming, I enjoy a skating and gaming. Please visit my LinkedIn to follow my programming journey.
+  I'm a London based software engineer. When not programming, I enjoy a skating and gaming. Please visit my LinkedIn to follow my programming journey.
 </p>
 <br>
 
@@ -67,9 +67,11 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  &nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   &nbsp;&nbsp;
 </p>
 <br>
