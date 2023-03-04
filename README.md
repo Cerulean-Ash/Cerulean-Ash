@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <h4 align='center'>📫 How to reach me:</h4>
 <p align='center'>
   <a href="https://www.linkedin.com/in/ashley-lampard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashleylampard@live.com?subject=Hello%20Ashley"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 <hr>
 
