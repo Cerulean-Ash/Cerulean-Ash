@@ -23,18 +23,14 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<p align='center'>
-  <a href="https://github.com/Cerulean-Ash"><img src="https://visitor-badge.glitch.me/badge?page_id=Cerulean-Ash??style=for-the-badge&logo=appveyor"></a>
-</p>
 
-
-<h4 align='center'>📫 How to reach me:</h4>
+<h4 align='center'>Connect with me:</h4>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/ashley-lampard"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ashley-lampard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley-lampard" height="30" width="40" /></a>
 </p>
 <hr>
 
-<h4 align='center'>🔭 I'm currently working with ... </h4>
+<h4 align='center'>Languages and Tools:</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;&nbsp;
@@ -62,12 +58,6 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;
   <img src=https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white />
    &nbsp;&nbsp;
-</p>
-<hr>
-<br>
-<h4 align='center'>🌱 I'm currently learning...</h4>
-
-<p align='center'>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -109,9 +99,4 @@ Here are some ideas to get you started:
 <hr>
 
 
-<br>
 
-
-<p align="left">
-// Badges come from <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
-</p>
