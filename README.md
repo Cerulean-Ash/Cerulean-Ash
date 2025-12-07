@@ -16,19 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align='center'> Hi there 👋, I'm Ashley 🧑🏻‍💻</h1>
-
-<p align='center'>
-  I'm a London based software engineer. When not programming, I enjoy a skating and gaming. Please visit my LinkedIn to follow my programming journey.
-</p>
-<br>
-
-
-<!-- <h4 align='center'>Connect with me:</h4>
-<p align='center'>
-  <a href="https://linkedin.com/in/ashley-lampard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley-lampard" height="30" width="40" /></a>
-</p>
-<hr> -->
+<!-- <h1 align='center'> Hi there 👋, I'm Ashley 🧑🏻‍💻</h1> -->
 
 <h4 align='center'>Languages and Tools:</h4>
 <p align='center'>
@@ -67,12 +55,7 @@ Here are some ideas to get you started:
 
 </p>
 <br>
-<!--
-<p align="right">
-  <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <h5 align="right">🎧 My playlists to listen while working</h5>
-</p>
--->
+
 
 <br>
 <hr>
@@ -93,7 +76,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Cerulean-Ash&count_private=true&theme=gruvbox_duo"/></a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerulean-Ash&count_private=true"/></a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerulean-Ash&count_private=true"/></a> -->
 </div>
 
 <hr>
