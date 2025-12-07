@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <br>
 
 
-<h4 align='center'>Connect with me:</h4>
+<!-- <h4 align='center'>Connect with me:</h4>
 <p align='center'>
   <a href="https://linkedin.com/in/ashley-lampard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley-lampard" height="30" width="40" /></a>
 </p>
-<hr>
+<hr> -->
 
 <h4 align='center'>Languages and Tools:</h4>
 <p align='center'>
